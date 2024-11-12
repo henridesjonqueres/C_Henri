@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\cours-info\\C\u002B\u002B\\intstack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B2E543-1E4B-4334-9DB8-4E794D23F9C7}|intstack\\intstack.vcxproj|C:\\Users\\henri\\cours-info\\C\u002B\u002B\\intstack\\intstack\\IntStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B2E543-1E4B-4334-9DB8-4E794D23F9C7}|intstack\\intstack.vcxproj|solutionrelative:intstack\\IntStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntStack.cpp",
+              "DocumentMoniker": "C:\\Users\\henri\\cours-info\\C\u002B\u002B\\intstack\\intstack\\IntStack.cpp",
+              "RelativeDocumentMoniker": "intstack\\IntStack.cpp",
+              "ToolTip": "C:\\Users\\henri\\cours-info\\C\u002B\u002B\\intstack\\intstack\\IntStack.cpp*",
+              "RelativeToolTip": "intstack\\IntStack.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T11:06:10.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
