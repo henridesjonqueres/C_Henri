@@ -1,0 +1,3 @@
+﻿  IntStack.cpp
+C:\Users\henri\cours-info\C++\C_Henri\intstack\intstack\IntStack.cpp(71,21): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  intstack.vcxproj -> C:\Users\henri\cours-info\C++\C_Henri\intstack\x64\Debug\intstack.exe
